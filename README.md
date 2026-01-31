@@ -5,7 +5,6 @@ A ferramenta foi desenvolvida em **Excel**, utilizando:
 - ✅ Validações de dados
 - ✅ Navegação facilitada 
 - ✅ Funções interativas
-- 
 O objetivo é oferecer uma solução prática e profissional para organização de dados fiscais, sendo um excelente diferencial em portfólios acadêmicos e profissionais. 
 
 ## 🚀 Funcionalidades 
