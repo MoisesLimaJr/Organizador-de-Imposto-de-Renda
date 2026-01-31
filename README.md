@@ -14,3 +14,9 @@ O objetivo é oferecer uma solução prática e profissional para organização 
 - Organização de notas bancárias e extratos de holerites 
 - Estrutura de tabelas com bancos e instituições financeiras 
 - Navegação simplificada entre seções da planilha
+
+## 🛠️ Tecnologias Utilizadas 
+- Microsoft Excel 
+- Validações de dados 
+- Funções interativas 
+- Estrutura de tabelas
