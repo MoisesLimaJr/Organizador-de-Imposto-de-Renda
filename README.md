@@ -1,5 +1,5 @@
 # 🧾 Organizador de Imposto de Renda
-# Este projeto consiste na criação de uma planilha de controle de dados para facilitar a organização das informações necessárias para a **declaração de imposto de renda**. 
+Este projeto consiste na criação de uma planilha de controle de dados para facilitar a organização das informações necessárias para a **declaração de imposto de renda**. 
 
 A ferramenta foi desenvolvida em **Excel**, utilizando: 
 - ✅ Validações de dados
